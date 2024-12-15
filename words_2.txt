@@ -1,0 +1,8 @@
+choose	chose	chosen
+come	came	come
+cost	cost	cost
+cut	cut	cut
+do	did	done
+draw	drew	drawn
+drive	drove	driven
+eat	ate	eaten

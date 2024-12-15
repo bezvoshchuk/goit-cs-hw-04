@@ -1,0 +1,9 @@
+eat	ate	eaten
+feel	felt	felt
+find	found	found
+get	got	got
+give	gave	given
+go	went	gone
+have	had	had
+hear	heard	heard
+hold	held	he
